@@ -18,7 +18,7 @@ Tools Used
 
  Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](imagesdashboard-overview.png)
 
  Key Insights
 - Sales performance varied significantly across regions  
