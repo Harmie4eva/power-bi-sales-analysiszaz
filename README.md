@@ -1,54 +1,53 @@
+ Sales Analysis Dashboard (Power BI)
 
-Power BI Sales Analysis Project
  Overview
+This project analyzes sales data using Power BI to uncover trends, track performance, and generate actionable business insights.
 
-This project presents a comprehensive data analysis and visualization using Power BI. It focuses on uncovering insights from business data to support strategic decision-making.
+The dashboard provides an interactive view of key metrics, enabling better decision-making.
 
-The dashboard highlights key performance indicators (KPIs), trends, and patterns in sales and operations.
+ Objectives
+- Analyze sales performance across regions and categories  
+- Identify trends and patterns in sales data  
+- Track key performance indicators (KPIs)  
+- Provide insights for business growth  
 
-Objectives
-Analyze sales performance across different categories
-Identify trends and patterns in business data
-Provide actionable insights through interactive dashboards
-Support data-driven decision-making
+Tools Used
+- Power BI  
+- Power Query (Data Cleaning & Transformation)  
+- DAX (Data Analysis Expressions)  
 
- Tools & Technologies
-Power BI – Data visualization & dashboard creation
-Microsoft Excel / Dataset – Data source
-Data Cleaning & Transformation – Power Query
+ Dashboard Preview
 
- Project Files
-Power BI Group 3 Project pbix.pbix → Main dashboard file
-Power BI Group 3 Project pdf.pdf → Exported report
-Power BI Group 3 Reports.pptx → Presentation slides
+![Dashboard Overview](images/dashboard-overview.png)
 
  Key Insights
-Identified top-performing products and categories
-Revealed sales trends over time
-Highlighted areas of low performance needing improvement
-Provided visual summaries for quick business understanding
+- Sales performance varied significantly across regions  
+- Certain product categories contributed the highest revenue  
+- A noticeable decline in sales occurred during specific periods  
+- High-performing regions showed consistent growth trends  
+
+
+Recommendations
+- Focus marketing efforts on underperforming regions  
+- Increase investment in high-performing product categories  
+- Monitor seasonal trends to improve planning  
+
+ Team Members & Roles
+- Oni Damilola – DAX & Data Optimization Specialist  
+- Keji Folowosele – Data Cleaning & Preparation  
+- Grace Udoh – Dashboard Development  
+- Viona Okoth – Data Analysis & Insights  
+- Olaka Endurance – Data Modeling  
+- Asanda – Visualization Design Support  
+- Nadrah – Presentation & Documentation  
 
  How to Use
-Download the .pbix file
-Open using Power BI Desktop
-Interact with filters and visuals
-
-Team Members
-Oni Damilola – DAX & Data Optimization Specialist
-Keji Folowosele – Data Cleaning & Preparation (Power Query Specialist)
-Grace Udoh – Dashboard Developer (Power BI Developer)
-Viona Okoth – Data Analyst & Insights Lead
-Olaka Endurance – Data Modeling Specialist
-Asanda – Visualization Design Support
-Nadrah – Presentation & Documentation Lead
-
-Project Impact
-
-This project demonstrates the ability to:
-
-Work collaboratively on data projects
-Transform raw data into meaningful insights
-Communicate findings effectively using dashboards
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Interact with filters and visuals  
 
 
+Contact
+GitHub: https://github.com/Harmie4eva
 
+GitHub: https://github.com/Harmie4
